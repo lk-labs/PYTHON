@@ -1,0 +1,16 @@
+"""cars=["benz","volvo","range","v8","mazda"]
+cars.insert(1,"lexus")
+print(cars)
+cars.append("prado")
+print(cars)
+cars.extend("sedd")
+print(cars)
+"""
+"""fruits=["tomatoe","apple","pineapples","kale"]
+fruits_2=["watermelon","passion","maembe"]
+fruits.extend(fruits_2)
+print(fruits)
+"""
+fruits=["tomatoe","apple","pineapples","kale"]
+fruits.clear[1]
+print(fruits)
