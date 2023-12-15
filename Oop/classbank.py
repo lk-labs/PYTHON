@@ -6,7 +6,6 @@ class bank:
 #instantiate a class
 amount=float(input("Enter amount to deposit:"))
 b=bank(amount)
-del b.balance
 b.balance=25000
 b.checkbalance()
 

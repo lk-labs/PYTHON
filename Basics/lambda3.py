@@ -1,2 +1,2 @@
-y=lambda a,b,c:a*b*c
-print("the product is",y(19,20,49))
+y=lambda a,b:a*b
+print("product",y(10,20))

@@ -2,7 +2,6 @@
 
 class sample:
     count=5
-    x=0
     def read(self):
         self.a=int(input("enter value of a:"))
 

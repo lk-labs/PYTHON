@@ -1,0 +1,2 @@
+def grade(cat,exam):
+    

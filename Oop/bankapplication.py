@@ -39,7 +39,7 @@ while True:
         b.deposit()
     elif choice == 3:
         b.withdrawal()
-    elif choice == 4:
+    elif choice == 4: 
         b.check_balance()
     elif choice == 5:
         b.exit()
